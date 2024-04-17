@@ -1869,7 +1869,7 @@ body.loaded {
 .skills-widget .skill-inner {
 	border-radius: 25px;
 	padding: 40px 15px 30px;
-	height: 200px;
+	height: 160px;
 	background: var(--tj-theme-accent-2);
 	border: 1px solid transparent;
 	margin-bottom: 15px;
@@ -3477,6 +3477,18 @@ body.absolute_header .breadcrumb_area {
 	width: 35px;
 	height: 35px;
 	border-radius: 50%;
+}
+
+.profile-image {
+	height: 360px;
+}
+
+.project-img {
+	width: 100%;
+}
+
+.flask-icon {
+	color: white;
 }
 
 /* END: Modal CSS */
